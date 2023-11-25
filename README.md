@@ -41,10 +41,22 @@ The Game Organizer website front end is developed using React, providing a dynam
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/game-organizer-frontend.git`
-2. Navigate to the project directory: `cd game-organizer-frontend`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+1. **Clone the Repositories:**
+   - Front End
+     ```
+     git clone https://github.com/JiahaoYu1/ConsoleCrew_FinalProjFrontEnd.git
+     ```
+
+2. **Usage:**
+   - Runs the app in development mode
+     ```
+     npm start
+     ```
+
+   - Runs the app for production to the build folder
+     ```
+     npm run build
+     ```
 
 ## Contributing
 
